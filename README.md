@@ -91,11 +91,4 @@ The dashboard is interactive. After opening it in Power BI Desktop:
 
 ## 📂 Dataset
 
-Cleaned version of the Netflix dataset from Kaggle: [paste your Kaggle link here](https://www.kaggle.com)
-
----
-
-## 👩‍💻 Author
-
-**Shreya M.S.**
-[LinkedIn](paste-your-linkedin-link-here)
+Cleaned version of the Netflix dataset from Kaggle:(https://www.kaggle.com)
